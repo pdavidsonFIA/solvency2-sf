@@ -1,2 +1,2 @@
-# solvecy2-sf
+# solvency2-sf
 Solvency 2 Standard Formula
